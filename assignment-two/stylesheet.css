@@ -1,0 +1,39 @@
+input[type=text], input[type=password] input[type=email] {
+  padding: 5px;
+  margin: 0;
+  display: inline-block;
+  background: #FFFFFF;
+  box-sizing: border-box;
+}
+body {
+  background-color: #CCCCFF;
+}
+
+.registration-form {
+  background-color: #739AEC;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 800px;
+  border-radius: 5px 5px 0 0;
+}
+
+.registration-form h2 {
+  font-weight: bold;
+  font-size: 40px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.registration-form input {
+  font-size: 16px;
+  padding: 15px 10px;
+  width: auto;
+  border: 0;
+  border-radius: 5px;
+}
+
+.copyright {
+  text-align: center;
+}
