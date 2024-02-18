@@ -1,0 +1,14 @@
+Paragraphs:
+
+- <p>   - paragraph tag
+- <strong> - make the text bold
+- <i> - make the text italic
+- <blockquote> - have text in quote kind of situation.
+- <hr> - horizontal tag
+- <div> - create a container
+
+Links:
+
+<a></a>
+    href
+    target
